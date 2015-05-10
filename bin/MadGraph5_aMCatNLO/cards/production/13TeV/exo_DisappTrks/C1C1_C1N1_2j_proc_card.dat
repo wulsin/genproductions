@@ -20,7 +20,7 @@
 #*     run as ./bin/mg5  filename                           *
 #*                                                          *
 #************************************************************
-import model mssm
+import model mssm-no_b_mass
 define p = p b b~
 define j = j b b~
 
